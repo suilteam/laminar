@@ -41,7 +41,7 @@ Both install packages will create a new `laminar` user and install (but not acti
 
 ## Building from source
 
-See the [development README](https://github.com/ohwgiles/laminar) for instructions for installing from source.
+See the [development README](https://github.com/suilteam/laminar.git) for instructions for installing from source.
 
 ## Building for Docker
 
